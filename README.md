@@ -13,3 +13,6 @@ This script prints an empty file called hello.
 
 ## 5-execute
 This script adds execute permission to the owner of the file 'hello'
+
+## 6-multiple permissions
+This script grants execute access to owner and group whiles giving read only access to others for hello file 
