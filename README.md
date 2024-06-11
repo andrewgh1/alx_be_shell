@@ -15,4 +15,7 @@ This script prints an empty file called hello.
 This script adds execute permission to the owner of the file 'hello'
 
 ## 6-multiple permissions
-This script grants execute access to owner and group whiles giving read only access to others for hello file 
+This script grants execute access to owner and group whiles giving read only access to others for hello file
+
+## 9-John_Doe
+This script was created using shell permission modes for file hello 
